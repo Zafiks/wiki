@@ -14,7 +14,7 @@
 
 ## Бот в Telegram не даёт код
 
-Сначала подпишитесь на канал [t.me/ShowTimeMc](https://t.me/ShowTimeMc), потом снова нажмите **/start** у бота.
+Сначала подпишитесь на канал [t.me/nightworld_ovh](https://t.me/nightworld_ovh), потом снова нажмите **/start** у бота.
 
 ## Не могу ничего сломать у спавна
 

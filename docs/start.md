@@ -21,14 +21,14 @@
 
 === "Telegram"
 
-    1. Подпишитесь на канал [t.me/ShowTimeMc](https://t.me/ShowTimeMc) — без подписки бот не выдаст код.
-    2. Откройте бота [@showtimeLink_bot](https://t.me/showtimeLink_bot) и нажмите **/start** (ник вводить не нужно).
+    1. Подпишитесь на канал [t.me/nightworld_ovh](https://t.me/nightworld_ovh) — без подписки бот не выдаст код.
+    2. Откройте бота [@NightWorld_2fa_bot](https://t.me/NightWorld_2fa_bot) и нажмите **/start** (ник вводить не нужно).
     3. Бот пришлёт код.
     4. Зайдите на сервер и введите в чат: `/link КОД`
 
 === "Discord"
 
-    1. Зайдите на наш Discord: [discord.gg/showtimes](https://discord.gg/showtimes).
+    1. Зайдите на наш Discord: [discord.gg/yp9KT8t6zQ](https://discord.gg/yp9KT8t6zQ).
     2. Напишите боту `/link ВашНик` — в любом канале, в личку боту или через слэш-команду.
     3. Бот пришлёт код.
     4. Зайдите на сервер и введите в чат: `/link КОД`

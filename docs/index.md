@@ -71,7 +71,7 @@ hide:
 
 ## Связь
 
-- Discord: [discord.gg/showtimes](https://discord.gg/showtimes) — канал **#помощь**
-- Telegram: [t.me/ShowTimeMc](https://t.me/ShowTimeMc)
+- Discord: [discord.gg/yp9KT8t6zQ](https://discord.gg/yp9KT8t6zQ) — канал **#помощь**
+- Telegram: [t.me/nightworld_ovh](https://t.me/nightworld_ovh)
 - Сайт и донат: [nightworld.ovh](https://nightworld.ovh)
 - Карта мира: [map.nightworld.ovh](https://map.nightworld.ovh)

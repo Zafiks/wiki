@@ -67,10 +67,10 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/showtimes
+      link: https://discord.gg/yp9KT8t6zQ
       name: Discord
     - icon: fontawesome/brands/telegram
-      link: https://t.me/ShowTimeMc
+      link: https://t.me/nightworld_ovh
       name: Telegram
     - icon: material/web
       link: https://nightworld.ovh
