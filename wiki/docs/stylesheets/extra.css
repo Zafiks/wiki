@@ -1,0 +1,59 @@
+/* Цвета NightWorld: оранжево-золотой логотип и фиолетовый акцент */
+:root {
+  --md-primary-fg-color: #6b2fb3;
+  --md-primary-fg-color--light: #a855f7;
+  --md-primary-fg-color--dark: #4a1d80;
+  --md-accent-fg-color: #f08c00;
+  --md-accent-fg-color--transparent: #f08c001a;
+  --nw-gold: #ffb347;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1b1029;
+  --md-primary-fg-color--light: #2a1940;
+  --md-primary-fg-color--dark: #120a1c;
+  --md-accent-fg-color: #ffb347;
+  --md-accent-fg-color--transparent: #ffb3471a;
+  --md-default-bg-color: #140d1f;
+  --md-typeset-a-color: #ffb347;
+}
+
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+  background: linear-gradient(90deg, #1b1029, #2d1747);
+}
+
+.md-typeset h1 { font-weight: 700; }
+
+/* карточки на главной */
+.md-typeset .grid.cards > ul > li { border-radius: 10px; }
+
+/* значки-«чипы» для команд и цен */
+.nw-chip {
+  display: inline-block;
+  padding: 0 .5em;
+  border-radius: 999px;
+  font-size: .8em;
+  font-weight: 600;
+  background: var(--md-accent-fg-color--transparent);
+  color: var(--md-accent-fg-color);
+}
+
+/* поиск по таблицам на длинных страницах */
+.nw-filter {
+  width: 100%;
+  box-sizing: border-box;
+  padding: .6em .9em;
+  margin: .5em 0 1em;
+  font: inherit;
+  font-size: .8rem;
+  color: var(--md-default-fg-color);
+  background: var(--md-code-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+}
+.nw-filter:focus { outline: 2px solid var(--md-accent-fg-color); outline-offset: 0; }
+.nw-filter-empty { color: var(--md-default-fg-color--light); }
+
+.md-typeset table:not([class]) { font-size: .72rem; }
+.md-typeset table:not([class]) td small { color: var(--md-default-fg-color--light); }
