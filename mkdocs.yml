@@ -3,7 +3,7 @@ site_name: NightWorld — вики
 site_description: Всё, что нужно игроку сервера NightWorld (mc.nightworld.ovh)
 # Адрес, где будет висеть сайт. Свой домен — оставьте так и положите docs/CNAME (см. README.md).
 # Без домена на GitHub Pages: https://<логин>.github.io/<репозиторий>/
-site_url: https://zafiks.github.io/
+site_url: https://zafiks.github.io/wiki
 copyright: NightWorld · mc.nightworld.ovh
 
 theme:
