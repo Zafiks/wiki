@@ -1,3 +1,7 @@
+# Публикация вики на GitHub Pages: каждый push в main собирает сайт и выкладывает его.
+# В репозитории: Settings → Pages → Build and deployment → Source: «GitHub Actions».
+# Файл должен лежать в КОРНЕ репозитория: .github/workflows/deploy.yml.
+# Сама вики может быть и в корне, и в папке wiki/ — сборка найдёт mkdocs.yml сама.
 name: Вики на GitHub Pages
 
 on:
