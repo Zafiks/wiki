@@ -158,7 +158,8 @@ hide:
 | `/as` | Настройка стоек для брони |
 | `/sit` · `/lay` · `/crawl` · `/spin` | Сесть, лечь, ползти, крутиться |
 | `/sitoff` | Запретить садиться на себя |
-| `/barrelshop give` | Получить магазин-бочку |
+| `/barrelshop give` | Получить [магазин-бочку](survival.md#торговля) |
+| `/barrelshop collect` | Забрать выручку магазинов-бочек |
 | `/corpse help` | Трупы и запросы доступа |
 | `/cdcreate ссылка` <span class="nw-chip">донат</span> | Пластинка из SoundCloud |
 | `/size` <span class="nw-chip">донат</span> | Размер персонажа |
