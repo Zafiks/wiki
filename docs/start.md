@@ -22,7 +22,7 @@
 === "Telegram"
 
     1. Подпишитесь на канал [t.me/nightworld_ovh](https://t.me/nightworld_ovh) — без подписки бот не выдаст код.
-    2. Откройте бота [@NightWorld_2fa_bot](https://t.me/NightWorld_2fa_bot) и нажмите **/start** (ник вводить не нужно).
+    2. Откройте бота [@NightWorldLink_bot](https://t.me/NightWorldLink_bot) и нажмите **/start** (ник вводить не нужно).
     3. Бот пришлёт код.
     4. Зайдите на сервер и введите в чат: `/link КОД`
 
