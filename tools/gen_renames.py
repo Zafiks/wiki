@@ -8,7 +8,13 @@
 
 Запускайте заново после каждой новой версии пака.
 """
-import json, re, sys, zipfile
+import argparse
+from pathlib import Path
+import re
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from item_icons import Catalogue, IconIndex
 
 CYR = re.compile(r"[а-яё]", re.I)
 
@@ -86,29 +92,37 @@ def esc(s):
 
 
 def main():
-    pack, out_md = sys.argv[1:3]
-    z = zipfile.ZipFile(pack)
-    per_item = {}
-    for n in z.namelist():
-        if n.startswith("assets/minecraft/items/") and n.endswith(".json"):
-            found = []
-            cases_of(json.loads(z.read(n).decode("utf-8-sig")), found)
-            uniq = list(dict.fromkeys(found))
-            if uniq:
-                per_item[n.rsplit("/", 1)[1][:-5]] = uniq
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("pack", type=Path)
+    parser.add_argument("out_md", type=Path, nargs="?", default=Path(__file__).resolve().parents[1] / "docs/renames.md")
+    args = parser.parse_args()
+    with Catalogue(args.pack) as catalogue:
+        generate(catalogue, args.out_md)
+
+
+def grouped_renames(catalogue):
+    """The same visible rows drive page generation and icon cache pruning."""
+    per_item = {item: names for item, (_, names) in catalogue.renames.items()}
 
     # склеить семейства: имя → у каких материалов оно есть
     groups = {}  # ключ группы → {names: [...], members: {names: [материалы]}, all: [материалы]}
     for item, names in per_item.items():
         fam, member = family_of(item)
         key = fam or item
-        g = groups.setdefault(key, {"order": [], "where": {}, "all": []})
+        g = groups.setdefault(key, {"order": [], "where": {}, "all": [], "sources": {}})
         g["all"].append(member)
         for nm in names:
             if nm not in g["where"]:
                 g["where"][nm] = []
                 g["order"].append(nm)
+                g["sources"][nm] = catalogue.renames[item][0]
             g["where"][nm].append(member)
+    return groups
+
+
+def generate(catalogue, out_md):
+    icons = IconIndex(catalogue)
+    groups = grouped_renames(catalogue)
 
     placed = {k for _, keys in CATEGORIES for k in keys}
     extra = sorted(k for k in groups if k not in placed)
@@ -143,17 +157,19 @@ def main():
             lines += [f'<div class="nw-rename-group" markdown>', "", f"### {title}", ""]
             if key == "Любая пластинка":
                 lines += ["Работает на любой музыкальной пластинке.", ""]
-            lines += ["| Русское название | English |", "|---|---|"]
+            lines += ["| Вид | Русское название | English |", "|---|---|---|"]
             for nm in g["order"]:
                 ru, en = split_names(nm)
                 where = g["where"][nm]
                 note = ""
                 if key.startswith("Люб") and len(where) < len(g["all"]) and key != "Любая пластинка":
                     note = f" <small>(только {', '.join(where)})</small>"
-                lines.append(f"| {esc(' / '.join(ru)) or '—'}{note} | {esc(' / '.join(en)) or '—'} |")
+                icon = icons.icon(g["sources"][nm], ' / '.join(nm), nm[0])
+                lines.append(f"| {icon} | {esc(' / '.join(ru)) or '—'}{note} | {esc(' / '.join(en)) or '—'} |")
             lines += ["", "</div>", ""]
     open(out_md, "w", encoding="utf-8").write("\n".join(lines))
     print(f"{out_md}: {total} вариантов, {len(groups)} групп")
+    catalogue.report()
 
 
 if __name__ == "__main__":

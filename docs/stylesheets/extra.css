@@ -57,3 +57,21 @@
 
 .md-typeset table:not([class]) { font-size: .72rem; }
 .md-typeset table:not([class]) td small { color: var(--md-default-fg-color--light); }
+
+/* Иконки каталогов: место зарезервировано ещё до ленивой загрузки. */
+.md-typeset .nw-item-icon {
+  display: block;
+  width: 32px;
+  height: 32px;
+  min-width: 32px;
+  max-width: none;
+  object-fit: contain;
+}
+.md-typeset .nw-item-icon-pixel { image-rendering: pixelated; }
+.md-typeset td:has(> .nw-item-icon) { vertical-align: middle; }
+/* Название набора участвует в текстовом поиске каждой строки. */
+.nw-item-set {
+  display: block;
+  font-size: .8em;
+  color: var(--md-default-fg-color--light);
+}

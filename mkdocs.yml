@@ -92,6 +92,7 @@ nav:
   - Питомцы и вещи:
       - Питомцы: pets.md
       - Гардероб: wardrobe.md
+      - Все вещи гардероба: wardrobe-items.md
       - Авторы моделей: credits.md
       - Предметы по названию: renames.md
   - Люди:

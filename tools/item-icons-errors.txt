@@ -1,0 +1,43 @@
+Пропущено с ошибкой: 42
+bow: MAC-10: не разрешена текстура #missing в ksepsp:item/8_0/weapons/bow/submachine_gun/mac10
+carved_pumpkin: Anubis / Анубис: нет модели minecraft:anubis
+carved_pumpkin: Hat from Hold / Шляпа из трюма: не разрешена текстура #missing в ksepsp:item/8_0/hats/barbossa
+carved_pumpkin: Headphones / Наушники: не разрешена текстура #missing в ksepsp:item/8_0/hats/headph
+carved_pumpkin: Hearing Protectors / Шумопоглощающие наушники: не разрешена текстура #missing в ksepsp:item/8_0/hats/naschuschniken2000
+carved_pumpkin: Komsomol's Superstar / Звезда Комсомола: не разрешена текстура #missing в ksepsp:item/8_0/hats/bandana_zvezda
+carved_pumpkin: Parachute / Парашют: не разрешена текстура #missing в ksepsp:item/8_0/hats/mount/parachute
+carved_pumpkin: Pirate Bandana / Пиратская бандана: не разрешена текстура #missing в ksepsp:item/8_0/hats/bandana
+carved_pumpkin: Unfortunate Commander / Несчастный командор: не разрешена текстура #missing в ksepsp:item/8_0/hats/commander
+carved_pumpkin: VALVE / Вентиль: не разрешена текстура #missing в ksepsp:item/8_0/hats/valve
+crossbow: Flare Gun / Сигнальная ракетница: не разрешена текстура #missing в ksepsp:item/8_0/weapons/crossbow/single_shot/flare
+iron_ingot: Large Spider Web / Большая паутина: основной GUI-вид пуст или полностью за пределами кадра
+iron_ingot: Sakura Petals / Лепестки сакуры: не разрешена текстура #missing в nwlib:sakura/sakura_decor/sakura_furniture_v2/petals
+iron_ingot: Sakura Tree / Деревце сакуры: не разрешена текстура #missing в nwlib:sakura/sakura_decor/sakura_furniture_v2/tree
+leather_horse_armor: Armor Sign Glyph / Символ брони на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Bow Sign Glyph / Символ лука на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Cage Sign Glyph / Символ клетки на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Cross Sign Glyph / Символ креста на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Diamond Sign Glyph / Символ алмаза на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Down Arrow Sign Glyph / Символ стрелки вниз на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Fishing Rod Sign Glyph / Символ удочки на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Hammer Sign Glyph / Символ молота на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Hat Sign Glyph / Символ шляпы на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Heart Sign Glyph / Символ сердца на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Left Arrow Sign Glyph / Символ стрелки влево на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Line Sign Glyph / Символ линии на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Number Sign Glyph / Символ решётки на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Pickaxe Sign Glyph / Символ кирки на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Potion Sign Glyph / Символ зелья на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Right Arrow Sign Glyph / Символ стрелки вправо на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Skull Sign Glyph / Символ черепа на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Sword Sign Glyph / Символ меча на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Table Sign Glyph / Символ таблицы на табличке: нет модели minecraft:item/sign_glyph_template
+leather_horse_armor: Up Arrow Sign Glyph / Символ стрелки вверх на табличке: нет модели minecraft:item/sign_glyph_template
+minecart: Раздатчик Красных / Red Dispenser: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/red_dispenser
+minecart: Раздатчик Синих / Blu Dispenser: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/blu_dispenser
+minecart: Телепорт Красных / Red Teleporter: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/red_teleporter
+minecart: Телепорт Синих / Blu Teleporter: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/blu_teleporter
+name_tag: Турель Красных 2 уровня / Red Sentry Gun Level 2: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/red_sentry2
+name_tag: Турель Красных 3 уровня / Red Sentry Gun Level 3: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/red_sentry3
+name_tag: Турель Синих 2 уровня / Blu Sentry Gun Level 2: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/blu_sentry2
+name_tag: Турель Синих 3 уровня / Blu Sentry Gun Level 3: не разрешена текстура #missing в ksepsp:item/8_0/furniture/engineer_build/blu_sentry3
