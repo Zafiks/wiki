@@ -20,7 +20,7 @@ hide:
 !!! note "Это только внешний вид"
     Свойства предмета не меняются: «пулемёт» из лука стреляет как лук, «бургер» из стейка насыщает как стейк.
 
-Всего вариантов: **1543**. Список собран из пака автоматически.
+Всего вариантов: **1544**. Список собран из пака автоматически.
 
 <input id="rename-filter" class="nw-filter" type="search" placeholder="Поиск по названию: кот, sword, гитара…" autocomplete="off">
 <p id="rename-filter-empty" class="nw-filter-empty" hidden>Ничего не нашлось.</p>
@@ -442,6 +442,7 @@ hide:
 | Стопка подносов | Stack of Trays |
 | Мусорка закусочной | Diner Trash Can |
 | Подвесная лампа закусочной | Diner Hanging Lamp |
+| Рождественская лавка | Cozy Christmas Stand |
 
 </div>
 
