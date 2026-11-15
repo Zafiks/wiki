@@ -159,7 +159,10 @@ def generate(catalogue, out_md):
                 lines += ["Работает на любой музыкальной пластинке.", ""]
             lines += ["| Вид | Русское название | English |", "|---|---|---|"]
             for nm in g["order"]:
-                ru, en = split_names(nm)
+                # Original paintings include de_aztec: its official Russian
+                # translation also uses Latin letters. Painting cases are stored
+                # as Russian/English, so do not infer their language by script.
+                ru, en = ([nm[0]], [nm[-1]]) if key == "painting" else split_names(nm)
                 where = g["where"][nm]
                 note = ""
                 if key.startswith("Люб") and len(where) < len(g["all"]) and key != "Любая пластинка":

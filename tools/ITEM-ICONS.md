@@ -3,9 +3,9 @@
 Запускать из каталога `wiki`, последовательно, без публикации:
 
 ```sh
-.venv/bin/python -I tools/gen_item_icons.py ../resourcepack/nightworld-rp-v24.zip
-.venv/bin/python -I tools/gen_renames.py ../resourcepack/nightworld-rp-v24.zip
-.venv/bin/python -I tools/gen_wardrobe_items.py ../resourcepack/nightworld-rp-v24.zip
+.venv/bin/python -I tools/gen_item_icons.py ../resourcepack/nightworld-rp-v25.zip
+.venv/bin/python -I tools/gen_renames.py ../resourcepack/nightworld-rp-v25.zip
+.venv/bin/python -I tools/gen_wardrobe_items.py ../resourcepack/nightworld-rp-v25.zip
 .venv/bin/python -I -m mkdocs build --strict
 ```
 

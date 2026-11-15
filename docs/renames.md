@@ -20,7 +20,7 @@ hide:
 !!! note "Это только внешний вид"
     Свойства предмета не меняются: «пулемёт» из лука стреляет как лук, «бургер» из стейка насыщает как стейк.
 
-Всего вариантов: **1544**. Список собран из пака автоматически.
+Всего вариантов: **1550**. Список собран из пака автоматически.
 
 <input id="rename-filter" class="nw-filter" type="search" placeholder="Поиск по названию: кот, sword, гитара…" autocomplete="off">
 <p id="rename-filter-empty" class="nw-filter-empty" hidden>Ничего не нашлось.</p>
@@ -467,47 +467,53 @@ hide:
 
 | Вид | Русское название | English |
 |---|---|---|
-| ![Дружба / Friendship](assets/items/0822217acde1.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Дружба | Friendship |
-| ![Плакат &quot;100 Делегатов&quot; / Poster &quot;100 Delegates&quot;](assets/items/341b0d4f6ce4.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "100 Делегатов" | Poster "100 Delegates" |
-| ![Плакат &quot;2018&quot; / &quot;2018&quot; Poster](assets/items/9cc6de14ce99.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "2018" | "2018" Poster |
-| ![Вождь следит за тобой! / Leader Is Watching You!](assets/items/52278a769b2a.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Вождь следит за тобой! | Leader Is Watching You! |
-| ![Лаврентий Берия / Lavrentiy Beria](assets/items/6f1215416a3a.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Лаврентий Берия | Lavrentiy Beria |
-| ![Карл Маркс / Karl Marx](assets/items/0a3997fd2171.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Карл Маркс | Karl Marx |
-| ![Настенный ковёр / Wall Carpet](assets/items/d370d4769097.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Настенный ковёр | Wall Carpet |
-| ![Данила Мопс / Danila Mops](assets/items/6f1a10ee4c99.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Данила Мопс | Danila Mops |
-| ![Фридрих Энгельс / Freidrich Engels](assets/items/6cc71060c69a.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Фридрих Энгельс | Freidrich Engels |
-| ![Отец / Father](assets/items/9da0462e0f9f.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Отец | Father |
-| ![Броневик / Armored Car](assets/items/49f8a4f1addf.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Броневик | Armored Car |
-| ![Плакат &quot;Голосуй за счастливый город&quot; / &quot;Vote for Happy City!&quot; Poster](assets/items/70037c67257e.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "Голосуй за счастливый город" | "Vote for Happy City!" Poster |
-| ![Фюрер / Fuhrer](assets/items/7282ef92842f.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Фюрер | Fuhrer |
-| ![Дом Августа / August&#x27;s Home](assets/items/dcef8c1c00c1.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Дом Августа | August's Home |
-| ![Гипер и Интроверт / Hyper and Introvert](assets/items/7896a06d4996.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Гипер и Интроверт | Hyper and Introvert |
-| ![Феликс Дзержинский / Felix Dzerzhinsky](assets/items/40aebcf0ec71.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Феликс Дзержинский | Felix Dzerzhinsky |
-| ![Дэви Джонс нашего времени / Modern Davy Jones](assets/items/638dd5e77f04.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Дэви Джонс нашего времени | Modern Davy Jones |
-| ![Матросы Кронштадта / Kronstadt&#x27;s Sailors](assets/items/c155ce79be69.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Матросы Кронштадта | Kronstadt's Sailors |
-| ![Плакат &quot;Слава КСЭПСП&quot; / &quot;Glory to KSEPSP&quot; Poster](assets/items/98302bfcf818.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "Слава КСЭПСП" | "Glory to KSEPSP" Poster |
-| ![Владимир Ленин / Vladimir Lenin](assets/items/9797f4ee40e6.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Владимир Ленин | Vladimir Lenin |
-| ![Вождь Октября / October Leader](assets/items/0b0be4aa8421.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Вождь Октября | October Leader |
-| ![Плакат &quot;Пролетарии всех стран, соединяйтесь!&quot; / &quot;Proletarians of All Countries, Unite!&quot; Poster](assets/items/9e45d2bc15eb.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "Пролетарии всех стран, соединяйтесь!" | "Proletarians of All Countries, Unite!" Poster |
-| ![Феликс Дзержинский 1x1 / Felix Dzerzhinsky 1x1](assets/items/cb6c666c6a46.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Феликс Дзержинский 1x1 | Felix Dzerzhinsky 1x1 |
-| ![Владимир Ленин 1x1 / Vladimir Lenin 1x1](assets/items/f3a0dea71180.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Владимир Ленин 1x1 | Vladimir Lenin 1x1 |
-| ![Наполеон / Napoleon](assets/items/0e2a848d5297.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Наполеон | Napoleon |
-| ![Плакат &quot;КСЭПСП&quot; / &quot;KSEPSP&quot; Poster](assets/items/9761d0609f27.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "КСЭПСП" | "KSEPSP" Poster |
-| ![Плакат &quot;Политбюро&quot; / &quot;Politburo&quot; Poster](assets/items/fe9c390ae890.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "Политбюро" | "Politburo" Poster |
-| ![Властный диктатор / Tyrannical Dictator](assets/items/b90e70c9a0b5.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Властный диктатор | Tyrannical Dictator |
-| ![Революция / Revolution](assets/items/780c1a3fd7e8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Революция | Revolution |
-| ![Иосиф Сталин / Joseph Stalin](assets/items/6f8845559477.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Иосиф Сталин | Joseph Stalin |
-| ![Троцкий, Ленин и Дзержинский / Trotsky, Lenin, Dzerzhinsky](assets/items/7daba0bca46d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Троцкий, Ленин и Дзержинский | Trotsky, Lenin, Dzerzhinsky |
-| ![Лев Троцкий / Leon Trotsky](assets/items/a4c954f38dde.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Лев Троцкий | Leon Trotsky |
-| ![Плакат &quot;Ты!&quot; / &quot;You!&quot; Poster](assets/items/e604266623a8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "Ты!" | "You!" Poster |
-| ![Шадоу / Shadow](assets/items/c21e59f74328.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шадоу | Shadow |
-| ![Плакат &quot;Жители наш оплот!&quot; / &quot;Villagers Are Our Stronghold&quot; Poster](assets/items/fa9896eb641b.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "Жители наш оплот!" | "Villagers Are Our Stronghold" Poster |
-| ![Валидола / Validola](assets/items/c1fd15f7ca49.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Валидола | Validola |
-| ![Сталин и Ворошилов / Stalin and Voroshilov](assets/items/d3ebdcb81996.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Сталин и Ворошилов | Stalin and Voroshilov |
-| ![Плакат &quot;Не унесут фашиста ноги&quot; / &quot;Fascist Won&#x27;t Run Away&quot; Poster](assets/items/d97215aa09b5.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Плакат "Не унесут фашиста ноги" | "Fascist Won't Run Away" Poster |
-| ![Август / August](assets/items/d5be11957c16.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Август | August |
-| ![Чертёж Зибсиса / Zibsis&#x27; Blueprint](assets/items/2cb27913f5b6.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Чертёж Зибсиса | Zibsis' Blueprint |
-| ![Кремневый всадник / Flint Rider](assets/items/f0c15fa5b994.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кремневый всадник | Flint Rider |
+| ![Кебаб и три пепперони / Kebab med tre pepperoni](assets/items/9fc7817386cf.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кебаб и три пепперони | Kebab med tre pepperoni |
+| ![de_aztec (1)](assets/items/391c5af959a3.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | de_aztec (1) | de_aztec (1) |
+| ![Албанец / Albanian](assets/items/d82f8f08fb6c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Албанец | Albanian |
+| ![de_aztec (2)](assets/items/752fa3969eb5.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | de_aztec (2) | de_aztec (2) |
+| ![Цель была успешно взорвана / Target Successfully Bombed](assets/items/c3a4ac4bb987.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Цель была успешно взорвана | Target Successfully Bombed |
+| ![Денежное дерево / Paradisträd](assets/items/926c57c645f5.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Денежное дерево | Paradisträd |
+| ![Пустошь / Wasteland](assets/items/826acc77f23f.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Пустошь | Wasteland |
+| ![Бассейн / The Pool](assets/items/378f8d850352.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Бассейн | The Pool |
+| ![Встреча / Bonjour Monsieur Courbet](assets/items/2d897ed3e10b.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Встреча | Bonjour Monsieur Courbet |
+| ![Побережье / Seaside](assets/items/94ed6991d840.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Побережье | Seaside |
+| ![Закат / sunset_dense](assets/items/1a819106a7a2.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Закат | sunset_dense |
+| ![Крибережье / Creebet](assets/items/6cee7af3adfe.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Крибережье | Creebet |
+| ![Странник / Wanderer](assets/items/79c1467939fe.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Странник | Wanderer |
+| ![Грэм / Graham](assets/items/299235a9f831.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Грэм | Graham |
+| ![Спичка / Match](assets/items/f1dc71b229b8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Спичка | Match |
+| ![Бюст / Bust](assets/items/ec4ecaac594d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Бюст | Bust |
+| ![Сцена подготовлена / The Stage Is Set](assets/items/304366c940c5.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Сцена подготовлена | The Stage Is Set |
+| ![Ничто / The void](assets/items/1a4326b173a9.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Ничто | The void |
+| ![Череп и розы / Skull and Roses](assets/items/ef223b26d87d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Череп и розы | Skull and Roses |
+| ![Визер / Wither](assets/items/f4a20beb0932.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Визер | Wither |
+| ![Схватка / Fighters](assets/items/915046e7fba2.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Схватка | Fighters |
+| ![Указующий перст / Pointer](assets/items/6e3678240c5c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Указующий перст | Pointer |
+| ![Свиносцена / Pigscene](assets/items/bd734848ba81.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Свиносцена | Pigscene |
+| ![Пылающий череп / Skull On Fire](assets/items/c121aa9cc0d7.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Пылающий череп | Skull On Fire |
+| ![Смертельная скука / Mortal Coil](assets/items/d81b1274ccce.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Смертельная скука | Mortal Coil |
+| ![Конг / Kong](assets/items/fd72614b84ad.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Конг | Kong |
+| ![Барокко / Baroque](assets/items/0a354321a52a.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Барокко | Baroque |
+| ![Скромность / Humble](assets/items/8d85709e5c71.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Скромность | Humble |
+| ![Медитативность / Meditative](assets/items/d9e78cd68276.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Медитативность | Meditative |
+| ![Скачки по прерии / Prairie Ride](assets/items/ae7310b301ab.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Скачки по прерии | Prairie Ride |
+| ![Открытие / Unpacked](assets/items/eb4785f28296.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Открытие | Unpacked |
+| ![Задний двор / Backyard](assets/items/19ad65317751.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Задний двор | Backyard |
+| ![Букет / Bouquet](assets/items/6fbcd47992ed.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Букет | Bouquet |
+| ![Пещерная птица / Cavebird](assets/items/4900f9dbf928.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Пещерная птица | Cavebird |
+| ![Смена / Changing](assets/items/ad736bac21b8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Смена | Changing |
+| ![Котан / Cotán](assets/items/6a84a2109917.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Котан | Cotán |
+| ![Финальный босс / Endboss](assets/items/8938d9994750.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Финальный босс | Endboss |
+| ![Папоротник / Fern](assets/items/b97e53960e47.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Папоротник | Fern |
+| ![Находка / Finding](assets/items/7f0e36bee879.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Находка | Finding |
+| ![Дымка / Lowmist](assets/items/84baa3de0d66.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Дымка | Lowmist |
+| ![Сфера / Orb](assets/items/1cac38953b8d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Сфера | Orb |
+| ![Филимоны / Owlemons](assets/items/368093f25f34.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Филимоны | Owlemons |
+| ![Переход / Passage](assets/items/16bd8722b5c7.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Переход | Passage |
+| ![Пруд / Pond](assets/items/424fe7af3fd2.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Пруд | Pond |
+| ![Подсолнухи / Sunflowers](assets/items/b6893ebf2120.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Подсолнухи | Sunflowers |
+| ![Прилив / Tides](assets/items/5d43bb43bd07.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Прилив | Tides |
+| ![Деннис / Dennis](assets/items/bcd12a05a768.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Деннис | Dennis |
 
 </div>
 
