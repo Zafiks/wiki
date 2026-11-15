@@ -38,3 +38,9 @@
 | [Viking Weaponary](https://modrinth.com/resourcepack/viking-weaponary) | xtonev | MIT | Щит викинга |
 | [Wearable Backpacks (copygirl)](https://github.com/copygirl/WearableBackpacks) | copygirl | MIT | Классический рюкзак |
 | [Wet Backpacks (Backpacked addon)](https://modrinth.com/mod/wet-backapacks) | LeanStath | CC0-1.0 + LGPL-2.1-or-later | Меч за спиной, Рюкзак-компьютер |
+
+## Готовка
+
+Модели, текстуры и звуки [походного котелка и блюд](cooking.md) — **Little Room**
+([patreon.com/littleroomdev](https://www.patreon.com/littleroomdev)), Cooking Pack. Мы перенесли их на свой плагин,
+перевели на русский и перерисовали надпись на шкале готовности.
