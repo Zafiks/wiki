@@ -20,7 +20,7 @@ hide:
 !!! note "Это только внешний вид"
     Свойства предмета не меняются: «пулемёт» из лука стреляет как лук, «бургер» из стейка насыщает как стейк.
 
-Всего вариантов: **1494**. Список собран из пака автоматически.
+Всего вариантов: **1543**. Список собран из пака автоматически.
 
 <input id="rename-filter" class="nw-filter" type="search" placeholder="Поиск по названию: кот, sword, гитара…" autocomplete="off">
 <p id="rename-filter-empty" class="nw-filter-empty" hidden>Ничего не нашлось.</p>
@@ -393,6 +393,55 @@ hide:
 | Стальной сундук | Steel Chest |
 | Стальной ключ | Steel Key |
 | Волшебная книга | Magic Book |
+| Знамя сакуры | Sakura Banner |
+| Знамя сакуры 2 | Sakura Banner 2 |
+| Кровать сакуры | Sakura Bed |
+| Книжный шкаф сакуры | Sakura Bookshelf |
+| Стул сакуры | Sakura Chair |
+| Живая картина сакуры | Sakura Living Picture |
+| Будильник сакуры | Sakura Alarm Clock |
+| Письменный стол сакуры | Sakura Desk |
+| Комод сакуры | Sakura Dresser |
+| Аквариум сакуры | Sakura Fishbowl |
+| Лампа сакуры | Sakura Lamp |
+| Тумбочка сакуры | Sakura Nightstand |
+| Картина сакуры | Sakura Painting |
+| Лепестки сакуры | Sakura Petals |
+| Ковёр сакуры | Sakura Rug |
+| Полка сакуры | Sakura Shelf |
+| Стол сакуры | Sakura Table |
+| Террариум сакуры | Sakura Terrarium |
+| Деревце сакуры | Sakura Tree |
+| Ваза сакуры | Sakura Vase |
+| Диванчик закусочной | Diner Bench |
+| Угловой диванчик закусочной | Diner Corner Bench |
+| Столик закусочной | Diner Small Table |
+| Табурет закусочной | Diner Stool |
+| Стол закусочной | Diner Table |
+| Фритюрница | Deep Fryer |
+| Гриль закусочной | Diner Grill |
+| Плита закусочной | Diner Stove |
+| Холодильник закусочной | Diner Fridge |
+| Аппарат мороженого | Ice Cream Machine |
+| Шкафчик закусочной | Diner Cabinet |
+| Кухонный стол закусочной | Diner Kitchen Table |
+| Котлеты для бургера | Burger Patties |
+| Поднос с котлетами | Patty Tray |
+| Булочка для бургера | Burger Bun |
+| Листья салата | Lettuce Leaves |
+| Ломтики помидора | Tomato Slices |
+| Большой гамбургер | Big Hamburger |
+| Картошка фри | French Fries |
+| Бургер с картошкой | Burger and Fries |
+| Стакан газировки | Soda Cup |
+| Клубничное мороженое | Strawberry Ice Cream Tub |
+| Ванильное мороженое | Vanilla Ice Cream Tub |
+| Шоколадное мороженое | Chocolate Ice Cream Tub |
+| Соусы | Condiments |
+| Неоновая вывеска «Бургер» | Burger Neon Sign |
+| Стопка подносов | Stack of Trays |
+| Мусорка закусочной | Diner Trash Can |
+| Подвесная лампа закусочной | Diner Hanging Lamp |
 
 </div>
 
