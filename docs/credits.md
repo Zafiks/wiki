@@ -44,4 +44,6 @@
 Модели, текстуры и звуки [походного котелка и блюд](cooking.md) — **Little Room**
 ([patreon.com/littleroomdev](https://www.patreon.com/littleroomdev)), Cooking Pack. Мы перенесли их на свой плагин,
 перевели на русский и перерисовали надпись на шкале готовности. Ещё 23 блюда (борщ, пельмени, плов и другие)
-нарисованы для NightWorld.
+нарисованы для NightWorld. Ещё 33 блюда — модели из открытых модов (Clowd's Christmas Food, Farmer's 3D,
+Display Delight, Casualness Delight, Ramadan Delight, Ube's Delight, TW's Decorative Food): авторы и лицензии —
+на странице [Готовка](cooking.md#авторы).
