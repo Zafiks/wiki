@@ -120,6 +120,25 @@ hide:
 
 </div>
 
+## [Арена](arena.md)
+
+<div class="nw-filter-group" markdown>
+
+| Команда | Что делает |
+|---|---|
+| `/arena` (`/pvp`) | Меню арены: поиск боя, вызов, статистика |
+| `/arena queue` · `/arena queue sword,uhc` · `/arena queue all` | Искать соперника в фоне (меню или сразу наборы) |
+| `/arena leave` | Выйти из поиска; в бою — сдаться |
+| `/arena go` · `/arena back` | Зайти в лобби арены / вернуться на выживание |
+| `/arena ff` | Сдаться в бою |
+| `/arena stats [ник]` | Статистика боёв |
+| `/arena war` | Перейти в бой войны объединений на арене |
+| `/duel ник [набор] [1–3]` | Вызвать на дуэль (`/дуэль`) |
+| `/duel accept ник` · `/duel deny ник` | Принять / отклонить вызов |
+| `/duel toggle` | Не принимать вызовы |
+
+</div>
+
 ## [Брак и семья](family.md)
 
 <div class="nw-filter-group" markdown>
