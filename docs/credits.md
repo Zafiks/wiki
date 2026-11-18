@@ -47,3 +47,8 @@
 нарисованы для NightWorld. Ещё 33 блюда — модели из открытых модов (Clowd's Christmas Food, Farmer's 3D,
 Display Delight, Casualness Delight, Ramadan Delight, Ube's Delight, TW's Decorative Food): авторы и лицензии —
 на странице [Готовка](cooking.md#авторы).
+
+## Рыбалка
+
+Рисунки рыб, удочек и наживок для [рыбалки](fishing.md) — платный набор, купленный для NightWorld; часть рыб
+перекрашена для сервера. Кейсы, 12 рыбных блюд и нарезка для [готовки](cooking.md#рыба) нарисованы для NightWorld.
