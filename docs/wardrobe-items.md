@@ -6,7 +6,7 @@ hide:
 
 # Все вещи гардероба
 
-В гардеробе **350 вещей**. Ниже — все наборы, внешний вид, подходящие предметы и редкость.
+В гардеробе **482 вещей**. Ниже — все наборы, внешний вид, подходящие предметы и редкость.
 
 Как надеть и получить вещи — на странице [«Гардероб»](wardrobe.md).
 
@@ -786,5 +786,245 @@ hide:
 | ![Сапфировая кирка](assets/items/e8f2fc12c22b.webp){ .nw-item-icon .nw-item-icon-pixel width="32" height="32" loading="lazy" decoding="async" } | Сапфировая кирка <span class="nw-item-set">Сапфировый рыцарь</span> | Для рук: кирка | Обычная |
 | ![Сапфировая лопата](assets/items/7afa9e994a3e.webp){ .nw-item-icon .nw-item-icon-pixel width="32" height="32" loading="lazy" decoding="async" } | Сапфировая лопата <span class="nw-item-set">Сапфировый рыцарь</span> | Для рук: лопата | Обычная |
 | ![Сапфировые доспехи](assets/items/6fbfb66ce015.webp){ .nw-item-icon .nw-item-icon-pixel width="32" height="32" loading="lazy" decoding="async" } | Сапфировые доспехи <span class="nw-item-set">Сапфировый рыцарь</span> | Доспехи комплекта — на всю броню | Легендарная |
+
+</div>
+
+## Рюкзаки странника
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Рюкзак лесного разведчика](assets/items/3bf91f6c2f81.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак лесного разведчика <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак-паучок с фонарём](assets/items/7170b6f9fd9f.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак-паучок с фонарём <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак часовщика](assets/items/19c4ba2aa096.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак часовщика <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак-жёлудь](assets/items/e1ed3fc74ffd.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак-жёлудь <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак алхимика](assets/items/7b6cbfcb99bb.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак алхимика <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак изобретателя](assets/items/4b208e514454.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак изобретателя <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак искателя сокровищ](assets/items/2578fd32f2ce.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак искателя сокровищ <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Кожаный походный ранец](assets/items/d645d9cb5920.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кожаный походный ранец <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак-бочонок](assets/items/ee019e7400b7.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак-бочонок <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак-нетопырь](assets/items/0939a249c64c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак-нетопырь <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Каркасный рюкзак](assets/items/1e730cc9b442.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Каркасный рюкзак <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак мага-путешественника](assets/items/9456aafbdb9d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак мага-путешественника <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак-колесо](assets/items/f0e15ade6a25.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак-колесо <span class="nw-item-set">Рюкзаки странника</span> | На спину / на нагрудник | Эпическая |
+
+</div>
+
+## Шут
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Колпак шута](assets/items/340601481542.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Колпак шута <span class="nw-item-set">Шут</span> | Шапка — на шлем | Редкая |
+| ![Кукла-игольница](assets/items/96aa386aae10.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кукла-игольница <span class="nw-item-set">Шут</span> | Для рук: тотем | Обычная |
+| ![Карусель за спиной](assets/items/9f5369f0e517.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Карусель за спиной <span class="nw-item-set">Шут</span> | На спину / на нагрудник | Эпическая |
+
+</div>
+
+## Рыбацкая бухта
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Бочонок с рыбой](assets/items/4b57287ded8d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Бочонок с рыбой <span class="nw-item-set">Рыбацкая бухта</span> | Шапка — на шлем | Редкая |
+| ![Горшок с водорослями](assets/items/e9c5e50149a2.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Горшок с водорослями <span class="nw-item-set">Рыбацкая бухта</span> | Для рук: тотем | Обычная |
+| ![Ящик рыбака](assets/items/6e3f98b3271b.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Ящик рыбака <span class="nw-item-set">Рыбацкая бухта</span> | На спину / на нагрудник | Эпическая |
+
+</div>
+
+## Племя
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Маска племени](assets/items/1148747cbf41.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Маска племени <span class="nw-item-set">Племя</span> | Шапка — на шлем | Редкая |
+| ![Факел с черепом](assets/items/c71993060a49.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Факел с черепом <span class="nw-item-set">Племя</span> | Для рук: torch, фонарь | Обычная |
+| ![Алтарь племени](assets/items/fd5bc919e990.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Алтарь племени <span class="nw-item-set">Племя</span> | На спину / на нагрудник | Эпическая |
+
+</div>
+
+## Зельевар
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Шляпа зельевара](assets/items/be6cbce20953.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа зельевара <span class="nw-item-set">Зельевар</span> | Шапка — на шлем | Редкая |
+| ![Гримуар зельевара](assets/items/07ec2302fd2f.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Гримуар зельевара <span class="nw-item-set">Зельевар</span> | Для рук: book, тотем | Обычная |
+| ![Котёл зельевара](assets/items/6456e0fae932.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Котёл зельевара <span class="nw-item-set">Зельевар</span> | На спину / на нагрудник | Эпическая |
+
+</div>
+
+## Кракен
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Шляпа кракена-фокусника](assets/items/894b073f31e4.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа кракена-фокусника <span class="nw-item-set">Кракен</span> | Шапка — на шлем | Редкая |
+| ![Чудище кораллового рифа](assets/items/7365e059cf57.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Чудище кораллового рифа <span class="nw-item-set">Кракен</span> | Шапка — на шлем | Редкая |
+| ![Древнее чудище](assets/items/c358f37d8273.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Древнее чудище <span class="nw-item-set">Кракен</span> | Шапка — на шлем | Редкая |
+| ![Рюкзак кораллового чудища](assets/items/28947412cbae.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак кораллового чудища <span class="nw-item-set">Кракен</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак кракена-фокусника](assets/items/57724185b746.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак кракена-фокусника <span class="nw-item-set">Кракен</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак древнего чудища](assets/items/44b0daff4bcf.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак древнего чудища <span class="nw-item-set">Кракен</span> | На спину / на нагрудник | Эпическая |
+| ![Трезубец кракена](assets/items/ab4d36a1fc25.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Трезубец кракена <span class="nw-item-set">Кракен</span> | Для рук: трезубец, меч | Обычная |
+| ![Шарик-глаз кракена](assets/items/318883b83772.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шарик-глаз кракена <span class="nw-item-set">Кракен</span> | На спину / на нагрудник | Эпическая |
+| ![Посох древнего чудища](assets/items/29efe4d9a308.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Посох древнего чудища <span class="nw-item-set">Кракен</span> | Для рук: меч, трезубец | Обычная |
+
+</div>
+
+## Ретро-аркада
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Шлем-аркада](assets/items/ced9c704b178.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шлем-аркада <span class="nw-item-set">Ретро-аркада</span> | Шапка — на шлем | Редкая |
+| ![Кепка «Супер»](assets/items/56fd1febe717.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кепка «Супер» <span class="nw-item-set">Ретро-аркада</span> | Шапка — на шлем | Редкая |
+| ![Шлем робота](assets/items/63d03c82cb6c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шлем робота <span class="nw-item-set">Ретро-аркада</span> | Шапка — на шлем | Редкая |
+| ![Рюкзак-призрак](assets/items/c3e878b9594e.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак-призрак <span class="nw-item-set">Ретро-аркада</span> | На спину / на нагрудник | Эпическая |
+| ![Панцирь с шипами](assets/items/440c3afb85ca.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Панцирь с шипами <span class="nw-item-set">Ретро-аркада</span> | На спину / на нагрудник | Эпическая |
+| ![Рюкзак-робот](assets/items/b92a18083745.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рюкзак-робот <span class="nw-item-set">Ретро-аркада</span> | На спину / на нагрудник | Эпическая |
+
+</div>
+
+## Ведьмы
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Шляпа призрачной ведьмы](assets/items/68f15fe7be9b.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа призрачной ведьмы <span class="nw-item-set">Ведьмы</span> | Шапка — на шлем | Редкая |
+| ![Шляпа ночной ведьмы](assets/items/ccaae5bc7441.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа ночной ведьмы <span class="nw-item-set">Ведьмы</span> | Шапка — на шлем | Редкая |
+| ![Звёздная шляпа ведьмы](assets/items/8a0592633b3e.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Звёздная шляпа ведьмы <span class="nw-item-set">Ведьмы</span> | Шапка — на шлем | Редкая |
+| ![Шляпа сладкой чародейки](assets/items/d6f3f7a58a0e.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа сладкой чародейки <span class="nw-item-set">Ведьмы</span> | Шапка — на шлем | Редкая |
+| ![Метла призрачной ведьмы](assets/items/36bc0cac3b6a.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Метла призрачной ведьмы <span class="nw-item-set">Ведьмы</span> | Для рук: меч, трезубец | Обычная |
+| ![Метла ночной ведьмы](assets/items/93e90d18a5e8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Метла ночной ведьмы <span class="nw-item-set">Ведьмы</span> | Для рук: меч, трезубец | Обычная |
+| ![Звёздная метла](assets/items/3afa90b73866.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Звёздная метла <span class="nw-item-set">Ведьмы</span> | Для рук: меч, трезубец | Обычная |
+| ![Метла сладкой чародейки](assets/items/81abad730393.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Метла сладкой чародейки <span class="nw-item-set">Ведьмы</span> | Для рук: меч, трезубец | Обычная |
+
+</div>
+
+## Новогодние шапки
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Рожки на ободке](assets/items/3c8f87a7f920.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рожки на ободке <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Шапка-дымоход](assets/items/71a2c3e53e97.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-дымоход <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Рождественский колпак](assets/items/db034331f496.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рождественский колпак <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Шапка эльфа с бубенцом](assets/items/83c9e9f0d6c1.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка эльфа с бубенцом <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Пряничный домик](assets/items/80c0c8b1e7b8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Пряничный домик <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Шапка зелёного ворчуна](assets/items/2ae10e89b7ef.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка зелёного ворчуна <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Шапка-пингвин](assets/items/4fb59d26ab10.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-пингвин <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Шапка-белый медведь](assets/items/a8989a94bcab.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-белый медведь <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Шапка-подарок](assets/items/9677c1734814.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-подарок <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Шапка-снеговик](assets/items/88ab7d7df268.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-снеговик <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+| ![Полосатая шапка путника](assets/items/03dd53420753.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Полосатая шапка путника <span class="nw-item-set">Новогодние шапки</span> | Шапка — на шлем | Редкая |
+
+</div>
+
+## Шляпы и короны
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Ушки-котики](assets/items/002148aa40dc.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Ушки-котики <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Шляпа шерифа](assets/items/31054c814d73.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа шерифа <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Корона с самоцветами](assets/items/30266707731d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Корона с самоцветами <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Шапка-лисичка](assets/items/e7c414aead8b.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-лисичка <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Цилиндр джентльмена](assets/items/fda831e6ff75.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Цилиндр джентльмена <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Золотая корона](assets/items/0f34ff4e3b5b.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Золотая корона <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Нимб](assets/items/3f03e10fcac3.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Нимб <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Рога на ободке](assets/items/c3b4dcd65fac.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рога на ободке <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Железная корона](assets/items/c304acad7c3c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Железная корона <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Шляпа мафиози](assets/items/c970a4571927.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа мафиози <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Пиратская треуголка](assets/items/20dab0a7e5d8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Пиратская треуголка <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Колпак Деда Мороза](assets/items/a1e9eed2cf91.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Колпак Деда Мороза <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+| ![Сомбреро](assets/items/0879aa045f6a.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Сомбреро <span class="nw-item-set">Шляпы и короны</span> | Шапка — на шлем | Редкая |
+
+</div>
+
+## Шляпная коллекция
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Шлем лётчика](assets/items/61ecf5831195.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шлем лётчика <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Бандана](assets/items/9c3be9ccee3d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Бандана <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Вязаная шапка](assets/items/fed4fb50fb82.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Вязаная шапка <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шапка-медведь](assets/items/de8eab2526cf.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-медведь <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Кепка](assets/items/47544fe88eeb.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кепка <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Капитанская фуражка](assets/items/d2fbd61d8b47.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Капитанская фуражка <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Клоунская шапка](assets/items/e93be93805da.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Клоунская шапка <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа с Дикого Запада](assets/items/8752f2a6c4d7.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа с Дикого Запада <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа сыщика](assets/items/5d409e6c5b93.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа сыщика <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шапочка лесного эльфа](assets/items/3c118eda8ad5.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапочка лесного эльфа <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа фермера](assets/items/2e3fab211e86.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа фермера <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа с перьями](assets/items/8ebd5605baf8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа с перьями <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Праздничная шляпа](assets/items/75e79528f0eb.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Праздничная шляпа <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Противогаз](assets/items/0be458d90710.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Противогаз <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Зелёная шляпа](assets/items/5eb964c86346.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Зелёная шляпа <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Сияющий нимб](assets/items/6976047c7241.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Сияющий нимб <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Большие наушники](assets/items/866200da5f01.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Большие наушники <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Рогатый шлем](assets/items/9d5b71a36a38.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рогатый шлем <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Демонские рога](assets/items/bd3c48276061.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Демонские рога <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Хоккейный шлем](assets/items/0da35a77b5ce.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Хоккейный шлем <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа иллюзиониста](assets/items/6363e6f63252.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа иллюзиониста <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шапка монарха](assets/items/b2614a048fc5.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка монарха <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Рыцарский шлем](assets/items/901cacb03661.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рыцарский шлем <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа фокусника](assets/items/4c36eac38f84.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа фокусника <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Бескозырка](assets/items/33242ecca341.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Бескозырка <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа мастера](assets/items/a25b92c73c95.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа мастера <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Средневековая шапка](assets/items/0928b59d10f8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Средневековая шапка <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Каска шахтёра](assets/items/aa9dec9436d8.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Каска шахтёра <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Таинственная шляпа](assets/items/d4b77bbcd784.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Таинственная шляпа <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Оранжевая шляпа](assets/items/a6f5f21ab02c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Оранжевая шляпа <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шапка-панда](assets/items/fa9ada7eb9b3.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка-панда <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шляпа капитана пиратов](assets/items/a073ab8c2cef.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шляпа капитана пиратов <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шапка «Планеты»](assets/items/0fd03efb56b6.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шапка «Планеты» <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Кепка с пропеллером](assets/items/99be73e103dc.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кепка с пропеллером <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шлем гонщика](assets/items/9935c10a3f7c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шлем гонщика <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Стимпанк-цилиндр](assets/items/6571f4bfc354.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Стимпанк-цилиндр <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Соломенная шляпа](assets/items/c61e69304490.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Соломенная шляпа <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шлем ярла](assets/items/b174bff4c176.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шлем ярла <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Шлем воина](assets/items/31eaa116dc49.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шлем воина <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+| ![Ведьминская шляпа](assets/items/f83e8f8c52de.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Ведьминская шляпа <span class="nw-item-set">Шляпная коллекция</span> | Шапка — на шлем | Редкая |
+
+</div>
+
+## Средневековое оружие
+
+<div class="nw-filter-group" markdown>
+
+| Вид | Название | Куда надевается | Редкость |
+|---|---|---|---|
+| ![Боевой топор](assets/items/6e21ffbee84f.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Боевой топор <span class="nw-item-set">Средневековое оружие</span> | Для рук: топор, меч | Обычная |
+| ![Кинжал](assets/items/679a79b265c2.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Кинжал <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Веерная секира](assets/items/96730a98dd39.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Веерная секира <span class="nw-item-set">Средневековое оружие</span> | Для рук: топор, меч | Обычная |
+| ![Фламберг](assets/items/b4e15f841283.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Фламберг <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Палица](assets/items/3702ef4d8b8d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Палица <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч, булава | Обычная |
+| ![Абордажный крюк](assets/items/a59619f2fd90.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Абордажный крюк <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Катана странника](assets/items/df79c853de2c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Катана странника <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Длинный меч](assets/items/d30a76ad742a.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Длинный меч <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Шипастая булава](assets/items/81a18099f697.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Шипастая булава <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч, булава | Обычная |
+| ![Рапира](assets/items/c810ce856792.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рапира <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Копьё](assets/items/c36802a08d3d.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Копьё <span class="nw-item-set">Средневековое оружие</span> | Для рук: трезубец, меч | Обычная |
+| ![Рыцарский меч](assets/items/54916962c0a9.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рыцарский меч <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Томагавк](assets/items/2ee1e534b391.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Томагавк <span class="nw-item-set">Средневековое оружие</span> | Для рук: топор, меч | Обычная |
+| ![Боевой трезубец](assets/items/04cf345a347f.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Боевой трезубец <span class="nw-item-set">Средневековое оружие</span> | Для рук: трезубец, меч | Обычная |
+| ![Двойной клинок](assets/items/2a06d1aef281.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Двойной клинок <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Боевой молот](assets/items/45eae5e53f20.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Боевой молот <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч, булава | Обычная |
+| ![Цвайхендер](assets/items/c0f2e7c3f37c.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Цвайхендер <span class="nw-item-set">Средневековое оружие</span> | Для рук: меч | Обычная |
+| ![Рыцарский щит](assets/items/5d4878775426.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Рыцарский щит <span class="nw-item-set">Средневековое оружие</span> | Для рук: щит | Обычная |
+| ![Длинный лук](assets/items/eb9218bf8373.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Длинный лук <span class="nw-item-set">Средневековое оружие</span> | Для рук: лук | Обычная |
+| ![Тяжёлый арбалет](assets/items/ba2bf122c3ec.webp){ .nw-item-icon width="32" height="32" loading="lazy" decoding="async" } | Тяжёлый арбалет <span class="nw-item-set">Средневековое оружие</span> | Для рук: арбалет | Обычная |
 
 </div>
