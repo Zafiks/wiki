@@ -204,6 +204,8 @@ hide:
 | `/sitoff` | Запретить садиться на себя |
 | `/barrelshop give` | Получить [магазин-бочку](survival.md#торговля) |
 | `/barrelshop collect` | Забрать выручку магазинов-бочек |
+| `/barrelshop partner add <ник>` | Добавить [совладельца](survival.md#торговля) бочки, на которую смотрите (`remove` — убрать) |
+| `/barrelshop partner list` | Совладельцы бочки, на которую смотрите (`leave` — выйти из совладельцев) |
 | `/corpse help` | Трупы и запросы доступа |
 | `/cdcreate ссылка` <span class="nw-chip">донат</span> | Пластинка из SoundCloud |
 | `/size` <span class="nw-chip">донат</span> | Размер персонажа |
